@@ -1,0 +1,27 @@
+.home_section{
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+    width: 1519px;
+    height: 307px;
+    margin-top: 100px;
+}
+.home_section .MuiSvgIcon-root{
+    height: 4em;
+    width: 4em;
+    color: red;
+}
+.home_section1{
+    width: 262px;
+    height: 227px;
+    align-items: center;
+    text-align: center;
+    margin-left: 30 px;
+}
+
+.home_section1:hover
+{
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}

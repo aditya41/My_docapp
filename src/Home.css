@@ -1,0 +1,63 @@
+.home_image{
+    padding-top: 220px;
+    padding-bottom: 60px;
+    background-image: url('https://i.ibb.co/GTG9Q4j/bg1.jpg');
+    width: 1519px;
+    height: 730px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home_box{
+    border: 0px solid black;
+    width: 555px;
+    height: 449px;
+    padding: 19px 19px 2px 19px;
+    margin-left: 200px;
+    margin-top: -50px;
+    background-color: white;
+    opacity: 88%;
+    border-radius: 4px;
+}
+.home_box >h1{
+    color: #d20808;
+    font-size: 36px;
+    margin-bottom: 10px;
+    text-align: start;
+}
+.home_box>h5{
+    color:#d20808;
+    margin-bottom: 30px;
+}
+.home_box .MuiSvgIcon-root{
+    color: green;
+    width: 1.5em;
+    height: 1.5em;
+    font-size: 1.5em;
+}
+.box_items{
+    display: inline;
+    font-weight: bold;
+}
+.box_items2{
+    margin-left: 37px;
+    margin-top: -13px;
+}
+.home_box .MuiButton-label{
+    width: 224px;
+    height: 20px;
+}
+
+.home_box .MuiButton-containedSecondary{
+   margin-left: 260px;
+   margin-top: -10px;
+}
+
+.home_box:hover
+{
+        -webkit-transform: scale(1.1);
+        
+}
+.home_box:hover
+{
+        box-shadow: inset 0 0 0 10px #e06f6f;
+}

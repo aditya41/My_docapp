@@ -1,0 +1,27 @@
+.nav_home{
+    margin-left: 13%;
+    margin-top: 1%;
+}
+.nav_main{
+    height: 80px;
+    background-color:#ffffff;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 6px 0px
+
+    
+}
+.nav_content{
+    margin-left: 270px;
+    color: yellow;
+}
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-left: 7px;
+}
+.nav-link:hover
+{
+        -webkit-transform: scale(1.1);
+        
+}
